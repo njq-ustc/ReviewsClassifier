@@ -13,3 +13,5 @@ text2vec.py：Word embeding file, convert text to vector and record statement le
 RNNs.py：Multilayer LSTM Text Classification Model
 driver_bagging.py：Vote-based bagging model and forecasting function
 parameters recording：Adjustment record file
+
+Welcome everyone to give me suggestion
